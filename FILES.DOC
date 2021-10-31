@@ -1,0 +1,14 @@
+The files in this archive are:
+mousertn.c    the c source code to mouse routines, should compile under
+              any memory model.
+mouse.h       include file containing the prototypes for the mouse functions
+
+mouse.doc     Documentation file explaining the mouse in a little more detail
+
+mtest.c       Short demo of some mouse functions
+
+scrn.asm      source for some simple screen routines included for the demo
+scrn.obj      assembled object code for same, small memory model
+
+files.doc     this file
+
